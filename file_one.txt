@@ -8,3 +8,6 @@ And that someone is me.
 
 Sindhu editing.
 I am Sindhu, an MS ECE student at UT Austin.
+
+Sruthi's edits
+Hi, I'm trying out merge conflict for git repo.
